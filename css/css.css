@@ -83,7 +83,7 @@ img{
 }
 
 #searchList{
-    width: 80rem;
+    width: 90rem;
     height: 45rem;
     margin: 1rem auto;
     position: relative;
@@ -106,4 +106,19 @@ img{
 }
 .number{
     margin-left: 1.5rem;
+}
+.songName{
+    color: blue;
+}
+.artist{
+    color: gray;
+}
+.album10{
+    margin-left: 16.4rem;
+}
+.album1{
+    margin-left: 19.4rem;
+}
+.album2{
+    margin-left: 17.6rem;
 }
