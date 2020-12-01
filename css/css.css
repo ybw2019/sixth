@@ -1,0 +1,109 @@
+html{
+    font-size: 10px;
+}
+p{
+    color: gray;
+}
+div,a,li,ul,p,span{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+li{
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    border-bottom: 1px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#recommend{
+    display: inline-block;
+    margin: 1rem 0 1rem 38rem;
+}
+#searchText{
+    display: inline-block;
+    margin: 1rem 0 1rem 48rem;
+}
+#container{
+    width: 81rem;
+    height: 44rem;
+    margin: 0 auto;
+    position: relative;
+}
+img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+#block1,#block2,#block3,#block4,#block5{
+    width: 15rem;
+    height: 18rem;
+    position: absolute;
+    top: 2rem;
+}
+#block1{
+    margin-left: 1rem;
+}
+#block2{
+    margin-left: 17rem;
+}
+#block3{
+    margin-left: 33rem;
+}
+#block4{
+    margin-left: 49rem;
+}
+#block5{
+    margin-left: 65rem;
+}
+
+#block6,#block7,#block8,#block9,#block10{
+    width: 15rem;
+    height: 18rem;
+    position: absolute;
+    top: 22rem;
+}
+#block6{
+    margin-left: 1rem;
+}
+#block7{
+    margin-left: 17rem;
+}
+#block8{
+    margin-left: 33rem;
+}
+#block9{
+    margin-left: 49rem;
+}
+#block10{
+    margin-left: 65rem;
+}
+
+#searchList{
+    width: 80rem;
+    height: 45rem;
+    margin: 1rem auto;
+    position: relative;
+    border: 1px solid black;
+}
+#s1,#s2,#s3,#s4{
+    color: gray;
+}
+#s1{
+    margin-left: 1rem;
+}
+#s2,.songName{
+    margin-left: 10rem;
+}
+#s3,.artist{
+    margin-left: 20rem;
+}
+#s4,.album{
+    margin-left: 20rem;
+}
+.number{
+    margin-left: 1.5rem;
+}
