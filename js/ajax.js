@@ -48,7 +48,6 @@ function prepareGet() {
         if (albumNames.length != 0 || artistNames.length != 0) {
             albumNames = [];
             artistNames = [];
-            console.log(artistNames);
         }
         //发送请求并以此初始化数组
         if (xhr2.readyState === 4) {
